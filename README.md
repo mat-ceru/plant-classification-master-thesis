@@ -1,5 +1,6 @@
 # Automatic classification of healthy or diseased plants using images
 ## Master degree thesis project code
+Thesis available at site http://webthesis.biblio.polito.it/id/eprint/21200
 
 ### Repository and code description
 
